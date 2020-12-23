@@ -1,7 +1,7 @@
 #Github Repo Specific
 config.py
 .ipynb_checkpoints
-
+python_test.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
